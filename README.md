@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭  Currently developing engaging web experiences using HTML, CSS, JavaScript, React, and Node.js. <br>👯  Seeking collaboration on dynamic and user-friendly web projects, focusing on front-end development and React expertise. <br>🤝 Need help staying updated on web development trends, especially in performance optimization and accessibility. <br>🌱 Learning new techniques and frameworks to enhance front-end skills and delve deeper into React and Node.js.<br>💬 Ask about my experience in intuitive UI design, web performance optimization, and responsive design.t <br>⚡ Fun fact: I enjoy tackling coding challenges and exploring creative solutions in web development. <br>
+👨‍💻 I am a full stack and android developer. <br>📟 I like front-end development.<br>📱 I am currently working on creating a discord app clone. <br>👯 I am looking to collaborate on web and android development projects.
+In my free time I solve problems on leetcode and learn about stock market.<br>⚽ I love football. <br>⚖️Talk to me about politics. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azoy315) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ajay-yadav-672338257) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Azoy48971430) 
